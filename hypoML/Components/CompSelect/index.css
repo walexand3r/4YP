@@ -1,0 +1,16 @@
+.CompSelect > *{
+    float: left;
+}
+
+.CompSelect .light .ant-select-selection{
+    background-color: white;
+    border: 2px solid black;
+    /* width: 100px; */
+}
+
+
+.CompSelect .light .ant-select-arrow{
+    color:white;
+    font-size: 8px;
+}
+
