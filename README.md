@@ -1,12 +1,12 @@
 # 4YP (Fourth Year Project)
 
-Initial dissertation work on CNNs and analysis using visual analytics software
+Understanding machine learned systems using visual analytics
 
-Aim to understand more about how they perceive objects and whether they observe visual phenomena
+hypoML visual analytics app built in colaboration with Qianwen Wang
+Additional development contained in hypoML folder (use Javascript, React, D3)
 
-Testing increasingly complex neural networks with increasingly complex datasets.
-Images are processed in order to test certain hypotheses. 
-Data produced by learning and testing process is analysed using hypoML to draw conclusions
+Other files provide code used for testing of hypoML tool, separated into image processing and ML. 
+Two datasets processed in a variety of ways to test hypotheses about what is harmful/ useful to an ML model. Data produced by learning and testing process is analysed using hypoML to draw conclusions. 
 
 Full report is being written to explain reasoning and findings, will be uploaded when complete.
 Please note, this work may not always be up to date
