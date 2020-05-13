@@ -2,8 +2,8 @@
 
 Understanding machine learned systems using visual analytics
 
-hypoML visual analytics app built in colaboration with Qianwen Wang
-Additional development contained in hypoML folder (use Javascript, React, D3)
+hypoML visual analytics app built in colaboration with Qianwen Wang.
+Additional development contained in hypoML folder (using Javascript, React, D3)
 
 Other files provide code used for testing of hypoML tool, separated into image processing and ML. 
 Two datasets processed in a variety of ways to test hypotheses about what is harmful/ useful to an ML model. Data produced by learning and testing process is analysed using hypoML to draw conclusions. 
